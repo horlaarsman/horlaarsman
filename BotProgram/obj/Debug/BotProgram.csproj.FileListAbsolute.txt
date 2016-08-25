@@ -1,0 +1,6 @@
+C:\Users\HORLAARSMAN\Documents\SharpDevelop Projects\BotProgram\BotProgram\obj\Debug\BotProgram.csprojResolveAssemblyReference.cache
+C:\Users\HORLAARSMAN\Documents\SharpDevelop Projects\BotProgram\BotProgram\bin\Debug\BotProgram.exe.config
+C:\Users\HORLAARSMAN\Documents\SharpDevelop Projects\BotProgram\BotProgram\bin\Debug\BotProgram.exe
+C:\Users\HORLAARSMAN\Documents\SharpDevelop Projects\BotProgram\BotProgram\bin\Debug\BotProgram.pdb
+C:\Users\HORLAARSMAN\Documents\SharpDevelop Projects\BotProgram\BotProgram\obj\Debug\BotProgram.exe
+C:\Users\HORLAARSMAN\Documents\SharpDevelop Projects\BotProgram\BotProgram\obj\Debug\BotProgram.pdb
